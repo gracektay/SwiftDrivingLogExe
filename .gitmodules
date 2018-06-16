@@ -1,0 +1,3 @@
+[submodule "SwiftDrivingLog"]
+	path = SwiftDrivingLog
+	url = https://github.com/gracektay/SwiftDrivingLog.git
