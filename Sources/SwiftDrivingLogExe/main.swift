@@ -1,4 +1,4 @@
 import Foundation
-import TrackDriving
+import SwiftDrivingLog
 
-TrackDriving.run(fileName: CommandLine.arguments[1])
+SwiftDrivingLog.run(fileName: CommandLine.arguments[1])

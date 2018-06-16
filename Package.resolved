@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "SwiftDrivingLog",
+        "repositoryURL": "https://github.com/gracektay/SwiftDrivingLog",
+        "state": {
+          "branch": null,
+          "revision": "dbda80d152664319240d311ed343315a7eceb2e0",
+          "version": "1.0.1"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
